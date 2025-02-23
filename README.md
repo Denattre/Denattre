@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Привет! Я Дима — Frontend-разработчик<br>🌟 Обо мне<br><br>Я увлеченный Frontend-разработчик с опытом работы в создании современных и отзывчивых веб-приложений с использованием Vue.js и React. Моя цель — создавать интуитивно понятные интерфейсы, которые обеспечивают отличный пользовательский опыт.<br><br>💻 Навыки<br><br>Vue.js: VUE2, VUE3, Options API, Composition API, NUXT2, NUXT3, Vuex, Pinia, Vuetify 2, Vuetify 3..<br>React: Функциональные компоненты и немного классовые, React Hooks, NEXT, REDUX, Zustand, Jotai<br>HTML/CSS: Верстка адаптивных интерфейсов, использование препроцессоров и CSS фреймворков(Scss, tailwindcss).<br>JavaScript: Углубленное знание ES6+, работа с асинхронным кодом и API.<br>TypeScript: Опыт работы с типизацией, создание интерфейсов и классов, а также интеграция с фреймворками для повышения надежности и читаемости кода.<br>Инструменты: Git, Webpack, Vite, npm, yarn, Jest, и другие современные инструменты разработки.<br><br>🌱 Постоянное обучение<br><br>Я всегда стремлюсь к саморазвитию и изучению новых технологий. В данный момент я расширяю свои знания в экосистеме React, чтобы сделать её основным рабочим инструментом.<br><br>🤝 Давайте пообщаемся!<br><br>Я открыт для новых возможностей и сотрудничества. Если вы ищете разработчика, который сможет внести свежие идеи и качественный код в ваш проект, не стесняйтесь связаться со мной!
 
-<!--
-**Denattre/Denattre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Denattre&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Denattre&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denattre&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Denattre&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
